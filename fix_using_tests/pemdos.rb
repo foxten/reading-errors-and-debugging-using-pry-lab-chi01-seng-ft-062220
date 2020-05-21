@@ -9,5 +9,7 @@ require 'pry'
 #end
 
 def snake_it_up(string)
-10.times do puts "s" end
+10.times do 
+  puts "s" 
+  end
 end
